@@ -19,7 +19,6 @@ class Developer:
     
     def say_hi(self):
         print("Code until you find the purpose in Coding!")
-
 🔭 Currently working on: Mars-Studio
 
 🌱 Learning: DevOps, Machine Learning, Mobile App Development
@@ -42,7 +41,8 @@ https://github-readme-activity-graph.vercel.app/graph?username=tahanawab4848&the
 👁️ Profile Views
 <div align="center"> <img src="https://komarev.com/ghpvc/?username=tahanawab4848&color=0e75b6&style=flat-square" alt="Profile Views" /> </div><hr/>
 📫 Connect With Me
-<p align="center"> <a href="https://www.linkedin.com/in/tahanawab4848" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://twitter.com/yourhandle" target="_blank"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /> </a> <a href="mailto:laurel4848@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://github.com/tahanawab4848" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://wa.me/03062540001" target="_blank"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /> </a> </p><hr/><div align="center"> <b>⭐️ Show some love by starring my repos! ⭐️</b> </div>
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/> </p> ```
+<p align="center"> <a href="https://www.linkedin.com/in/tahanawab4848" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>  <a href="mailto:laurel4848@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://github.com/tahanawab4848" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://wa.me/03062540001" target="_blank"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /> </a> </p><hr/><div align="center"> <b>⭐️ Show some love by starring my repos! ⭐️</b> </div><p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/> </p> ```
 
+
+Ready to copy and paste! Your profile will look amazing in 2 minutes! 🚀
 
