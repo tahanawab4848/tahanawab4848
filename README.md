@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:1E2937,100:4F46E5&height=240&section=header&text=Muhammad%20Taha%20Nawab&fontSize=50&fontAlignY=42&animation=blinking&fontColor=FFFFFF" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:1E2937,100:4F46E5&height=180&section=header&text=Muhammad%20Taha%20Nawab&fontSize=46&fontAlignY=38&animation=blinking&fontColor=FFFFFF" width="100%" />
 </div>
 
 <div align="center">
@@ -24,9 +24,9 @@ Full Stack Developer & Machine Learning Enthusiast
 
 </div>
 
-- **Current Focus:** Mars-Studio 🚀
+- **Current Focus:** Mars-Studio 🚀 — Modern Development Environment
 - **Open to:** Collaborations, Freelance, Full-time Roles
-- **Philosophy:** Clean code, creative solutions, meaningful impact ✨
+- **Philosophy:** Clean code, scalable systems, meaningful impact ✨
 
 ---
 
@@ -62,33 +62,56 @@ Full Stack Developer & Machine Learning Enthusiast
 
 <div align="center">
 
-| Project                    | Description                                      | Language     | Links |
-|----------------------------|--------------------------------------------------|--------------|-------|
-| **Mars-Studio**            | Modern MIPS dev environment with compiler & visualization | Java | [→](https://github.com/tahanawab4848/Mars-Studio) |
-| **CulinaX**                | AI-powered Pakistani cooking assistant | Dart | [→](https://github.com/tahanawab4848/CulinaX) |
-| **VisionAI**               | Image-to-insight computer vision tool | Python | [→](https://github.com/tahanawab4848/VisionAI) |
-| **Industrial-Cortex**      | Robotics simulation with evolutionary algorithms | Python | [→](https://github.com/tahanawab4848/Industrial-Cortex) |
-| **Hospital-Management-System** | Full hospital management system | Java | [→](https://github.com/tahanawab4848/Hospital-Management-System) |
-| **ticket-system-sla**      | Enterprise ticketing with SLA & dashboards | TypeScript | [→](https://github.com/tahanawab4848/ticket-system-sla) |
+| Project                    | Description                                      | Tech Stack                  | Links |
+|----------------------------|--------------------------------------------------|-----------------------------|-------|
+| **Mars-Studio**            | Modern MIPS development environment with compiler, pipeline visualization & memory analytics | Java, C, InsightX | [→](https://github.com/tahanawab4848/Mars-Studio) |
+| **CulinaX**                | AI-powered Pakistani cooking assistant with rule-based + generative intelligence | Dart, Flutter, AI | [→](https://github.com/tahanawab4848/CulinaX) |
+| **VisionAI**               | Computer vision system that turns images into actionable insights | Python, OpenCV, TensorFlow | [→](https://github.com/tahanawab4848/VisionAI) |
+| **Industrial-Cortex**      | Warehouse robotics simulation using A* + evolutionary algorithms | Python, Genetic Algorithms | [→](https://github.com/tahanawab4848/Industrial-Cortex) |
+| **Hospital-Management-System** | Full-featured hospital management system | Java, Spring Boot | [→](https://github.com/tahanawab4848/Hospital-Management-System) |
+| **ticket-system-sla**      | Enterprise ticketing system with SLA monitoring & real-time dashboards | TypeScript, React, Node.js | [→](https://github.com/tahanawab4848/ticket-system-sla) |
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
+### **Languages**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=typescript,javascript,python,react,nextjs,nodejs,express,postgresql,mongodb,tailwind,prisma,docker,git,linux,aws,figma,vscode,dart,java&perline=8" />
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,python,java,dart,c&perline=8" />
+</p>
+
+### **Frontend & Frameworks**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&perline=8" />
+</p>
+
+### **Backend & Databases**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgresql,mongodb,prisma&perline=8" />
+</p>
+
+### **Machine Learning & AI**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,opencv,pytorch&perline=8" />
+</p>
+
+### **DevOps & Tools**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,git,linux,aws,vscode,figma&perline=8" />
 </p>
 
 ---
 
+## 🌱 Currently Learning & Exploring
 
-## 🌱 Currently Learning
+- **MLOps** — Model deployment & monitoring
+- **Advanced Cloud Architecture** — AWS & container orchestration
+- **Mobile Development** — Flutter & cross-platform apps
+- **System Design** — Scalable & distributed systems
+- **Advanced Deep Learning** — Computer Vision & Generative AI
 
-MLOps • Advanced Cloud Architecture • Flutter • System Design
-
----
 
 ## 🌐 Connect With Me
 
@@ -102,10 +125,10 @@ MLOps • Advanced Cloud Architecture • Flutter • System Design
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:4F46E5,100:1E2937&height=100&section=footer&fontColor=FFFFFF" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:4F46E5,100:1E2937&height=90&section=footer&fontColor=FFFFFF" width="100%" />
 </div>
 
 <div align="center">
   <h3>🎯 Code. Create. Innovate. 🚀</h3>
-  <strong>Thanks for visiting! Let's build something amazing together ✨</strong>
+  <strong>Thanks for visiting! Let's build something extraordinary together ✨</strong>
 </div>
