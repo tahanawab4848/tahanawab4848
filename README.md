@@ -13,6 +13,9 @@
 </p>
 
 ---
+## 🎧 **Now Playing**
+
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=your-spotify-id&cover_image=true&theme=novatorem)](https://spotify.com)
 
 ## 👋 About Me
 
@@ -55,6 +58,10 @@
 </div>
 
 ---
+
+## 📊 **Detailed Metrics**
+
+<img src="https://metrics.lecoq.io/tahanawab4848?template=classic&isocalendar=1&languages=1&people=1&activity=1&achievements=1&notable=1" />
 
 ## 🛠️ Tech Stack
 
