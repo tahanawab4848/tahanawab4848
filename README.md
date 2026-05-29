@@ -63,26 +63,28 @@
 
 ---
 
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=typescript,javascript,python,react,nextjs,nodejs,express,postgresql,mongodb,tailwind,prisma,docker,git,linux,aws,figma,vscode&perline=8" />
-</p>
-
----
-
 ## 🔥 Featured Projects
 
 <div align="center">
 
-| Project                  | Description                              | Tech Stack              | Links |
-|--------------------------|------------------------------------------|-------------------------|-------|
-| **Mars-Studio**          | Main Startup Project                     | PERN + ML               | [View](https://github.com/tahanawab4848) |
-| **AI Portfolio Builder** | Intelligent personal website with AI     | Next.js + OpenAI        | [Link](#) |
-| **Smart Attendance**     | Face recognition system                  | Python + OpenCV         | [Link](#) |
-| **E-Commerce Platform**  | Full-featured online marketplace         | PERN Stack              | [Link](#) |
+| Project                    | Description                                      | Language     | Links |
+|----------------------------|--------------------------------------------------|--------------|-------|
+| **Mars-Studio**            | Modernized MIPS development environment with C-to-MIPS compiler, InsightX pipeline visualization & memory analytics | Java | [Repository](https://github.com/tahanawab4848/Mars-Studio) |
+| **CulinaX**                | Pakistani cooking assistant combining rule-based pantry logic with generative AI | Dart | [Repository](https://github.com/tahanawab4848/CulinaX) |
+| **VisionAI**               | Turns raw images into actionable insights — perfect for demos, prototypes & computer vision products | Python | [Repository](https://github.com/tahanawab4848/VisionAI) |
+| **Industrial-Cortex**      | Intelligent warehouse robotics simulation using A* pathfinding + evolutionary algorithms | Python | [Repository](https://github.com/tahanawab4848/Industrial-Cortex) |
+| **Hospital-Management-System** | Comprehensive hospital management system | Java | [Repository](https://github.com/tahanawab4848/Hospital-Management-System) |
+| **ticket-system-sla**      | Enterprise customer support ticketing system with SLA monitoring & real-time dashboards | TypeScript | [Repository](https://github.com/tahanawab4848/ticket-system-sla) |
 
 </div>
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,python,react,nextjs,nodejs,express,postgresql,mongodb,tailwind,prisma,docker,git,linux,aws,figma,vscode,dart,java&perline=8" />
+</p>
 
 ---
 
