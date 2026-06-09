@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=700&size=20&duration=3200&pause=700&color=818CF8&center=true&vCenter=true&width=750&lines=Building+things+that+actually+work.;Clean+code.+Scalable+systems.+Meaningful+impact.;Full+Stack+%2B+ML+%3D+Infinite+possibilities.;Currently+deep+in+Mars-Studio+%F0%9F%AA%90;System+design+%C2%B7+Cloud+arch+%C2%B7+Generative+AI." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=20&duration=3200&pause=700&color=818CF8&center=true&vCenter=true&width=750&lines=Building+things+that+actually+work.;Clean+code.+Scalable+systems.+Meaningful+impact.;Full+Stack+%2B+ML+%3D+Infinite+possibilities.;Currently+deep+in+Mars-Studio+%F0%9F%AA%90;System+design+%C2%B7+Cloud+arch+%C2%B7+Generative+AI." alt="Typing SVG" />
 
 <br/><br/>
 
@@ -12,7 +12,7 @@
 &nbsp;
 <img src="https://img.shields.io/badge/%F0%9F%93%8D%20Location-Islamabad%2C%20PK-6366f1?style=for-the-badge&labelColor=0d0f1a&color=312e81" />
 &nbsp;
-<img src="https://img.shields.io/badge/%F0%9F%8E%93%20Degree-BS%20Computer%20Science-818cf8?style=for-the-badge&labelColor=0d0f1a&color=3730a3" />
+<img src="https://img.shields.io/badge/%F0%9F%8E%93%20Degree-BS%20Software%20Engineering-818cf8?style=for-the-badge&labelColor=0d0f1a&color=3730a3" />
 &nbsp;
 <img src="https://komarev.com/ghpvc/?username=tahanawab4848&color=818cf8&style=for-the-badge&label=Profile+Views&labelColor=0d0f1a" />
 
@@ -63,7 +63,7 @@ philosophy:  "Code is craft. Build with intention."
 ## 🏆 Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=tahanawab4848&theme=onestar&no-frame=true&no-bg=true&row=1&column=7&margin-w=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=tahanawab4848&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" />
 </div>
 
 ---
@@ -76,19 +76,28 @@ philosophy:  "Code is craft. Build with intention."
 <tr>
   <td align="center" width="33%">
     <a href="https://github.com/tahanawab4848/Mars-Studio">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=tahanawab4848&repo=Mars-Studio&theme=one_dark_pro&hide_border=true&title_color=818cf8&icon_color=34d399&text_color=9ca3af&bg_color=0d0f1a&border_radius=12" />
+      <img src="https://img.shields.io/badge/🪐%20Mars--Studio-Custom%20MIPS%20Dev%20Environment-818cf8?style=for-the-badge&labelColor=0d0f1a" />
+      <br/><br/>
+      <img src="https://img.shields.io/github/stars/tahanawab4848/Mars-Studio?style=flat-square&color=34d399&labelColor=0d0f1a&label=stars" />
+      <img src="https://img.shields.io/github/forks/tahanawab4848/Mars-Studio?style=flat-square&color=818cf8&labelColor=0d0f1a&label=forks" />
     </a>
     <br/><sub>🔬 Custom MIPS compiler + pipeline visualizer</sub>
   </td>
   <td align="center" width="33%">
     <a href="https://github.com/tahanawab4848/CulinaX">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=tahanawab4848&repo=CulinaX&theme=one_dark_pro&hide_border=true&title_color=34d399&icon_color=818cf8&text_color=9ca3af&bg_color=0d0f1a&border_radius=12" />
+      <img src="https://img.shields.io/badge/🍽️%20CulinaX-AI--Powered%20Culinary%20Platform-34d399?style=for-the-badge&labelColor=0d0f1a" />
+      <br/><br/>
+      <img src="https://img.shields.io/github/stars/tahanawab4848/CulinaX?style=flat-square&color=34d399&labelColor=0d0f1a&label=stars" />
+      <img src="https://img.shields.io/github/forks/tahanawab4848/CulinaX?style=flat-square&color=818cf8&labelColor=0d0f1a&label=forks" />
     </a>
     <br/><sub>🍽️ AI-powered culinary platform</sub>
   </td>
   <td align="center" width="33%">
     <a href="https://github.com/tahanawab4848/VisionAI">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=tahanawab4848&repo=VisionAI&theme=one_dark_pro&hide_border=true&title_color=38bdf8&icon_color=fbbf24&text_color=9ca3af&bg_color=0d0f1a&border_radius=12" />
+      <img src="https://img.shields.io/badge/👁️%20VisionAI-Computer%20Vision%20System-38bdf8?style=for-the-badge&labelColor=0d0f1a" />
+      <br/><br/>
+      <img src="https://img.shields.io/github/stars/tahanawab4848/VisionAI?style=flat-square&color=34d399&labelColor=0d0f1a&label=stars" />
+      <img src="https://img.shields.io/github/forks/tahanawab4848/VisionAI?style=flat-square&color=818cf8&labelColor=0d0f1a&label=forks" />
     </a>
     <br/><sub>👁️ Computer vision & image intelligence</sub>
   </td>
@@ -96,19 +105,28 @@ philosophy:  "Code is craft. Build with intention."
 <tr>
   <td align="center" width="33%">
     <a href="https://github.com/tahanawab4848/Industrial-Cortex">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=tahanawab4848&repo=Industrial-Cortex&theme=one_dark_pro&hide_border=true&title_color=fbbf24&icon_color=f472b6&text_color=9ca3af&bg_color=0d0f1a&border_radius=12" />
+      <img src="https://img.shields.io/badge/🏭%20Industrial--Cortex-ML%20Analytics%20Engine-fbbf24?style=for-the-badge&labelColor=0d0f1a" />
+      <br/><br/>
+      <img src="https://img.shields.io/github/stars/tahanawab4848/Industrial-Cortex?style=flat-square&color=34d399&labelColor=0d0f1a&label=stars" />
+      <img src="https://img.shields.io/github/forks/tahanawab4848/Industrial-Cortex?style=flat-square&color=818cf8&labelColor=0d0f1a&label=forks" />
     </a>
     <br/><sub>🏭 Industrial ML analytics engine</sub>
   </td>
   <td align="center" width="33%">
     <a href="https://github.com/tahanawab4848/ticket-system-sla">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=tahanawab4848&repo=ticket-system-sla&theme=one_dark_pro&hide_border=true&title_color=f472b6&icon_color=38bdf8&text_color=9ca3af&bg_color=0d0f1a&border_radius=12" />
+      <img src="https://img.shields.io/badge/🎫%20Ticket--SLA-SLA%20Driven%20Ticketing-f472b6?style=for-the-badge&labelColor=0d0f1a" />
+      <br/><br/>
+      <img src="https://img.shields.io/github/stars/tahanawab4848/ticket-system-sla?style=flat-square&color=34d399&labelColor=0d0f1a&label=stars" />
+      <img src="https://img.shields.io/github/forks/tahanawab4848/ticket-system-sla?style=flat-square&color=818cf8&labelColor=0d0f1a&label=forks" />
     </a>
     <br/><sub>🎫 SLA-driven ticketing system</sub>
   </td>
   <td align="center" width="33%">
     <a href="https://github.com/tahanawab4848/Hospital-Management-System">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=tahanawab4848&repo=Hospital-Management-System&theme=one_dark_pro&hide_border=true&title_color=fb7185&icon_color=a78bfa&text_color=9ca3af&bg_color=0d0f1a&border_radius=12" />
+      <img src="https://img.shields.io/badge/🏥%20Hospital--MS-Full%20Stack%20HMS-fb7185?style=for-the-badge&labelColor=0d0f1a" />
+      <br/><br/>
+      <img src="https://img.shields.io/github/stars/tahanawab4848/Hospital-Management-System?style=flat-square&color=34d399&labelColor=0d0f1a&label=stars" />
+      <img src="https://img.shields.io/github/forks/tahanawab4848/Hospital-Management-System?style=flat-square&color=818cf8&labelColor=0d0f1a&label=forks" />
     </a>
     <br/><sub>🏥 Full-stack hospital management platform</sub>
   </td>
@@ -185,7 +203,7 @@ philosophy:  "Code is craft. Build with intention."
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tahanawab4848&theme=one-dark-pro&hide_border=true&ring=818cf8&fire=34d399&currStreakNum=ffffff&sideNums=9ca3af&currStreakLabel=818cf8&sideLabels=6b7280&background=0d0f1a&stroke=1c1f30&dates=4b5563&border_radius=12" />
+<img src="https://streak-stats.demolab.com/?user=tahanawab4848&theme=one-dark-pro&hide_border=true&ring=818cf8&fire=34d399&currStreakNum=ffffff&sideNums=9ca3af&currStreakLabel=818cf8&sideLabels=6b7280&background=0d0f1a&stroke=1c1f30&dates=4b5563&border_radius=12" />
 
 </div>
 
