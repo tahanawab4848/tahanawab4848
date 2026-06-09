@@ -12,7 +12,7 @@
 &nbsp;
 <img src="https://img.shields.io/badge/%F0%9F%93%8D%20Location-Islamabad%2C%20PK-6366f1?style=for-the-badge&labelColor=0d0f1a&color=312e81" />
 &nbsp;
-<img src="https://img.shields.io/badge/%F0%9F%8E%93%20Degree-BS%20Software%20Engineering-818cf8?style=for-the-badge&labelColor=0d0f1a&color=3730a3" />
+<img src="https://img.shields.io/badge/%F0%9F%8E%93%20Degree-BS%20Computer%20Science-818cf8?style=for-the-badge&labelColor=0d0f1a&color=3730a3" />
 &nbsp;
 <img src="https://komarev.com/ghpvc/?username=tahanawab4848&color=818cf8&style=for-the-badge&label=Profile+Views&labelColor=0d0f1a" />
 
