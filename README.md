@@ -206,6 +206,13 @@ philosophy:  "Code is craft. Build with intention."
 </div>
 
 <div align="center">
+  <h2>🏆 GitHub Achievements</h2>
+  <img src="https://github.githubassets.com/assets/yolo-default-144f808ba671.png" width="100" alt="YOLO Badge">
+  <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec83d16.png" width="100" alt="Quickdraw Badge">
+  <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="100" alt="Pull Shark Badge">
+</div>
+
+<div align="center">
 <br/>
 
 <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tahanawab4848&theme=tokyonight&hide_border=true"/>
