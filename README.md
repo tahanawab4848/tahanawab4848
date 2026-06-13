@@ -44,13 +44,6 @@ contact:     laurel4848@gmail.com
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=tahanawab4848&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=8)](https://github.com/tahanawab4848?tab=achievements)
-
-</div>
 
 ---
 
@@ -183,10 +176,20 @@ contact:     laurel4848@gmail.com
 
 <div align="center">
 
-[![YOLO](https://github.githubassets.com/assets/yolo-default-be0bbff04951.png)](https://github.com/tahanawab4848?achievement=yolo&tab=achievements)&nbsp;&nbsp;
-[![Quickdraw](https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png)](https://github.com/tahanawab4848?achievement=quickdraw&tab=achievements)&nbsp;&nbsp;
-[![Pair Extraordinaire](https://github.githubassets.com/assets/pair-extraordinaire-default-579438a20e01.png)](https://github.com/tahanawab4848?achievement=pair-extraordinaire&tab=achievements)
+<a href="https://github.com/tahanawab4848?achievement=yolo&tab=achievements">
+  <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="90" alt="YOLO"/>
+</a>
 
+<a href="https://github.com/tahanawab4848?achievement=quickdraw&tab=achievements">
+  <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="90" alt="Quickdraw"/>
+</a>
+
+<a href="https://github.com/tahanawab4848?achievement=pair-extraordinaire&tab=achievements">
+  <img src="https://github.githubassets.com/assets/pair-extraordinaire-default-579438a20e01.png" width="90" alt="Pair Extraordinaire"/>
+</a>
+
+</div>
+<br>
 </div>
 
 <div align="center">
