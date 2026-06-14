@@ -81,6 +81,21 @@ I'm **Muhammad Taha Nawab**, a Full Stack Developer and AI Enthusiast passionate
 </div>
 
 ---
+## 🔥 Featured Projects
+
+<div align="center">
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| 🪐 [**Mars-Studio**](https://github.com/tahanawab4848/Mars-Studio) | Custom MIPS compiler + pipeline visualizer + memory analytics | Java |
+| 🍽️ [**CulinaX**](https://github.com/tahanawab4848/CulinaX) | AI-powered Pakistani culinary assistant (rule-based + GenAI) | Dart / Flutter |
+| 👁️ [**VisionAI**](https://github.com/tahanawab4848/VisionAI) | Computer vision & image intelligence platform | Python |
+| 🏭 [**Industrial-Cortex**](https://github.com/tahanawab4848/Industrial-Cortex) | Industrial ML analytics engine | Python / ML |
+| 🎫 [**ZetaSentry**](https://github.com/tahanawab4848/ZetaSentry) | Enterprise SLA-driven ticketing system w/ real-time dashboards | TypeScript |
+| 🌾 [**Cropify**](https://github.com/tahanawab4848/Cropify) | Farm dashboard — weather, analytics & real-time chat | TypeScript |
+| 🏥 [**Hospital-Management-System**](https://github.com/tahanawab4848/Hospital-Management-System) | Full-stack hospital management platform | Full Stack |
+
+</div>
 
 # 🛠️ Tech Stack
 
