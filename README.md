@@ -44,13 +44,6 @@ contact:     laurel4848@gmail.com
 
 ---
 
-
----
-
-
-
----
-
 ## 🛠️ Tech Stack
 
 ### 👨‍💻 Languages
@@ -106,6 +99,9 @@ contact:     laurel4848@gmail.com
 
 <div align="center">
 
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=tahanawab4848&theme=one-dark-pro&hide_border=true&ring=818cf8&fire=34d399&currStreakNum=ffffff&sideNums=9ca3af&currStreakLabel=818cf8&sideLabels=6b7280&background=0d0f1a&stroke=1c1f30&dates=4b5563&border_radius=12)](https://github.com/tahanawab4848)
+
 <img src="https://github-readme-stats.vercel.app/api?username=tahanawab4848&show_icons=true&count_private=true&theme=one_dark_pro&hide_border=true&title_color=818cf8&icon_color=34d399&text_color=9ca3af&bg_color=0d0f1a&border_radius=12" height="180" alt="GitHub Stats"/>
 &nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahanawab4848&layout=compact&theme=one_dark_pro&hide_border=true&title_color=818cf8&text_color=9ca3af&bg_color=0d0f1a&border_radius=12&langs_count=8" height="180" alt="Top Languages"/>
@@ -114,7 +110,7 @@ contact:     laurel4848@gmail.com
 
 <br/><br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=tahanawab4848&theme=one-dark-pro&hide_border=true&ring=818cf8&fire=34d399&currStreakNum=ffffff&sideNums=9ca3af&currStreakLabel=818cf8&sideLabels=6b7280&background=0d0f1a&stroke=1c1f30&dates=4b5563&border_radius=12)](https://github.com/tahanawab4848)
+
 
 </div>
 
@@ -195,11 +191,10 @@ contact:     laurel4848@gmail.com
 [![Most commit language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tahanawab4848&theme=tokyonight&hide_border=true)](https://github.com/tahanawab4848)
 
 [![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tahanawab4848&theme=tokyonight&hide_border=true)](https://github.com/tahanawab4848)
-[![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tahanawab4848&theme=tokyonight&hide_border=true)](https://github.com/tahanawab4848)
+
 
 </div>
 
----
 
 ## 💡 Dev Wisdom
 
@@ -209,7 +204,6 @@ contact:     laurel4848@gmail.com
 
 </div>
 
----
 
 ## 🌐 Connect With Me
 
