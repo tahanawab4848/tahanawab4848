@@ -124,6 +124,8 @@ contact:     laurel4848@gmail.com
 &nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahanawab4848&layout=compact&theme=one_dark_pro&hide_border=true&title_color=818cf8&text_color=9ca3af&bg_color=0d0f1a&border_radius=12&langs_count=8" height="180" alt="Top Languages"/>
 
+
+
 <br/><br/>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=tahanawab4848&theme=one-dark-pro&hide_border=true&ring=818cf8&fire=34d399&currStreakNum=ffffff&sideNums=9ca3af&currStreakLabel=818cf8&sideLabels=6b7280&background=0d0f1a&stroke=1c1f30&dates=4b5563&border_radius=12)](https://github.com/tahanawab4848)
@@ -140,7 +142,16 @@ contact:     laurel4848@gmail.com
 
 [![Contribution Chart](https://ghchart.rshah.org/6366f1/tahanawab4848)](https://github.com/tahanawab4848)
 
-[![Snake Animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)](https://github.com/Platane/snk)
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/tahanawab4848/tahanawab4848/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/tahanawab4848/tahanawab4848/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph"
+    src="https://raw.githubusercontent.com/tahanawab4848/tahanawab4848/output/pacman-contribution-graph-dark.svg">
+</picture>
 
 </div>
 
