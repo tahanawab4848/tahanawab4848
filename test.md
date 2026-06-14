@@ -156,6 +156,7 @@ I'm **Muhammad Taha Nawab**, a Full Stack Developer and AI Enthusiast passionate
 
 </div>
 
+
 <br/>
 
 <div align="center">
@@ -172,6 +173,7 @@ I'm **Muhammad Taha Nawab**, a Full Stack Developer and AI Enthusiast passionate
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tahanawab4848\&theme=catppuccin-mocha\&hide_border=true\&area=true)](https://github.com/tahanawab4848)
 
+[![Snake Animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)](https://github.com/Platane/snk)
 </div>
 
 ---
