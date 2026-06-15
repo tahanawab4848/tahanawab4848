@@ -37,11 +37,6 @@ contact:     laurel4848@gmail.com
 > Currently deep in **Mars-Studio**, a from-scratch MIPS development environment with a custom compiler,
 > pipeline visualizer, and memory analytics suite.
 > **My philosophy:** Great software is equal parts engineering and craft. Write code you'd be proud to show in two years.
-
-<div align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" alt="coding gif"/>
-</div>
-
 ---
 
 ## 🛠️ Tech Stack
