@@ -31,7 +31,11 @@ I'm **Muhammad Taha Nawab**, a Full Stack Developer and AI Enthusiast passionate
 * 🏗️ Practicing System Design
 * 🚀 Contributing to Open Source
 
+<div align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" alt="coding gif"/>
+</div>
 ---
+
 
 # 🪐 Flagship Project
 
