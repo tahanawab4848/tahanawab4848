@@ -225,6 +225,6 @@ contact:     laurel4848@gmail.com
 
 *"Code is craft. Build with intention."*
 
-**Muhammad Taha Nawab · Islamabad, PK**
+**_Muhammad Taha Nawab · Islamabad, PK_**
 
 </div>
