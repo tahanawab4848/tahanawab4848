@@ -71,7 +71,7 @@ contact:     laurel4848@gmail.com
 <p align="center">
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,linux,vscode,figma,postman&theme=dark&perline=8" height="50" alt="DevOps"/>
 </p>
----
+
 
 ## 📊 GitHub Stats
 
