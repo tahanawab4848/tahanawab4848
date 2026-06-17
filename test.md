@@ -164,6 +164,17 @@ I'm **Muhammad Taha Nawab**, a Full Stack Developer and AI Enthusiast passionate
 </div>
 
 ---
+
+# 🎯 Current Focus
+
+* 🪐 Mars-Studio Development
+* ☁️ AWS & Kubernetes
+* 🧠 MLOps & AI Engineering
+* 🤖 Generative AI
+* 🏗️ Distributed Systems
+* 🌍 Open Source
+
+---
 ## 🛠️ Tech Stack
 
 ### 👨‍💻 Languages
@@ -256,17 +267,6 @@ I'm **Muhammad Taha Nawab**, a Full Stack Developer and AI Enthusiast passionate
 
 </div>
 
-
-# 🎯 Current Focus
-
-* 🪐 Mars-Studio Development
-* ☁️ AWS & Kubernetes
-* 🧠 MLOps & AI Engineering
-* 🤖 Generative AI
-* 🏗️ Distributed Systems
-* 🌍 Open Source
-
----
 
 # 🌐 Connect With Me
 
