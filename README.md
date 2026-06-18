@@ -157,6 +157,24 @@ contact:     official.taha.nawab@gmail.com | laurel4848@gmail.com | nawabtaha61@
 
 ---
 
+## 🏔️ 3D Contribution Graph
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/tahanawab4848/tahanawab4848/main/profile-3d-contrib/profile-night-rainbow.svg">
+  <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    srcset="https://raw.githubusercontent.com/tahanawab4848/tahanawab4848/main/profile-3d-contrib/profile-gitblock.svg">
+  <img alt="3D Contribution Graph"
+    src="https://raw.githubusercontent.com/tahanawab4848/tahanawab4848/main/profile-3d-contrib/profile-gitblock.svg"
+    width="100%"/>
+</picture>
+
+</div>
+
+---
+
 ## 🌱 Currently Exploring
 
 ```
