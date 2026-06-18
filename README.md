@@ -16,7 +16,12 @@
 
 ---
 
-## 👋 Who I Am
+# 👋 Hi, I'm Muhammad Taha Nawab
+
+**Full Stack Developer | ML Enthusiast**
+
+I build production-ready APIs, scalable backends, and machine learning systems that actually work. 
+Currently open to new opportunities.
 
 ```yaml
 name:        Muhammad Taha Nawab
