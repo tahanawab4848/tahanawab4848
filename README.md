@@ -1,8 +1,9 @@
 <meta name="google-site-verification" content="11ZZraNi3iBpSgBPVLX4p78isKCjbkcKYEenvkRvnXI" />
 <div align="center">
 
+
 <!-- HEADER — transparent venom gradient, indigo palette readable on both themes -->
-[![Header](https://capsule-render.vercel.app/api?type=venom&color=0:4f46e5,30:6366f1,65:818cf8,100:a5b4fc&height=260&section=header&text=Muhammad%20Taha%20Nawab&fontSize=50&fontAlignY=38&fontColor=ffffff&desc=Full%20Stack%20Developer%20%C2%B7%20ML%20Enthusiast%20%C2%B7%20Builder&descSize=17&descAlignY=63&descColor=e0e7ff&animation=fadeIn)](https://github.com/tahanawab4848)
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,20:4FC3F7,40:00b894,60:00cec9,80:0984e3,100:6c5ce7&height=330&section=header&text=Muhammad%20Taha%20Nawab&fontSize=55&fontAlignY=30&fontColor=ffffff&desc=🌺%20Paradise%20Code%20%7C%20ML%20%7C%20AI%20%7C%20Tropical%20Vibes%20🌺&descSize=19&descAlignY=57&descColor=f0f0ff&animation=fadeIn&stroke=87CEEB&strokeWidth=3&font=Pacifico)](https://github.com/tahanawab4848)
 
 <!-- Typing SVG — F8FAFC is near-white, visible on dark; 1E1B4B is deep indigo, visible on light -->
 <picture>
