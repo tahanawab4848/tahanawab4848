@@ -56,7 +56,7 @@ contact:     official.taha.nawab@gmail.com | laurel4848@gmail.com | nawabtaha61@
 ### 👨‍💻 Languages
 
 <p align="center">
-  <!-- auto theme adapts icon brightness based on OS preference -->
+  <!-- auto theme adapts icon brightness based on OS preference alot of -->
   <img src="https://skillicons.dev/icons?i=ts,js,py,java,dart,c&perline=6" height="48" alt="Languages: TypeScript, JavaScript, Python, Java, Dart, C"/>
 </p>
 
