@@ -9,7 +9,7 @@
 
 ![Status](https://img.shields.io/badge/🟢%20Status-Available%20for%20Work-22c55e?style=for-the-badge&labelColor=0d0f1a&color=166534)
 ![Location](https://img.shields.io/badge/📍%20Location-Islamabad,%20PK-6366f1?style=for-the-badge&labelColor=0d0f1a&color=312e81)
-![Degree](https://img.shields.io/badge/🎓%20Degree-BS%20Computer%20Science@Comsats-818cf8?style=for-the-badge&labelColor=0d0f1a&color=3730a3)
+![Degree](https://img.shields.io/badge/🎓%20Degree-BS%20CS%20@Comsats-818cf8?style=for-the-badge&labelColor=0d0f1a&color=3730a3)
 ![Views](https://komarev.com/ghpvc/?username=tahanawab4848&color=818cf8&style=for-the-badge&label=Profile+Views&labelColor=0d0f1a)
 
 </div>
