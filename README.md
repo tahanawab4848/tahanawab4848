@@ -1,4 +1,4 @@
-
+<meta name="google-site-verification" content="11ZZraNi3iBpSgBPVLX4p78isKCjbkcKYEenvkRvnXI" />
 <div align="center">
 
 [![Header](https://capsule-render.vercel.app/api?type=venom&color=0:08090e,40:0d0f1a,70:1a1040,100:6366f1&height=280&section=header&text=Muhammad%20Taha%20Nawab&fontSize=52&fontAlignY=38&fontColor=ffffff&desc=Full%20Stack%20Developer%20·%20ML%20Enthusiast%20·%20Builder&descSize=18&descAlignY=62&descColor=818cf8&animation=fadeIn)](https://github.com/tahanawab4848)
