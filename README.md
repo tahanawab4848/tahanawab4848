@@ -3,7 +3,7 @@
 
 
 <!-- HEADER — transparent venom gradient, indigo palette readable on both themes -->
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,33:8b5cf6,66:a855f7,100:7c3aed&height=250&section=header&text=Muhammad%20Taha%20Nawab&fontSize=50&fontAlignY=30&fontColor=ffffff&desc=🌺%20Paradise%20Code%20%7C%20ML%20%7C%20AI%20%7C%20Tropical%20Vibes%20🌺&descSize=18&descAlignY=55&descColor=f0f0ff&animation=fadeIn&stroke=8b5cf6&strokeWidth=3&font=Nunito&fontWeight=900)](https://github.com/tahanawab4848)<!-- Typing SVG — F8FAFC is near-white, visible on dark; 1E1B4B is deep indigo, visible on light -->
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,33:8b5cf6,66:a855f7,100:7c3aed&height=250&section=header&text=Muhammad%20Taha%20Nawab&fontSize=50&fontAlignY=30&fontColor=ffffff&desc=%20Paradise%20Code%20%7C%20ML%20%7C%20AI%20%7C%20Tropical%20Vibes%20&descSize=18&descAlignY=55&descColor=f0f0ff&animation=fadeIn&stroke=8b5cf6&strokeWidth=3&font=Nunito&fontWeight=900)](https://github.com/tahanawab4848)<!-- Typing SVG — F8FAFC is near-white, visible on dark; 1E1B4B is deep indigo, visible on light -->
 <picture>
   <source media="(prefers-color-scheme: dark)"
     srcset="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=20&duration=3200&pause=700&color=A5B4FC&center=true&vCenter=true&width=750&lines=Building+things+that+actually+work.;Clean+code.+Scalable+systems.+Meaningful+impact.;Full+Stack+%2B+ML+%3D+Infinite+possibilities.;Currently+deep+in+Mars-Studio+%F0%9F%9A%80;System+design+%C2%B7+Cloud+arch+%C2%B7+Generative+AI." />
