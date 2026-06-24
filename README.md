@@ -43,9 +43,6 @@ contact:     official.taha.nawab@gmail.com | laurel4848@gmail.com | nawabtaha61@
 ```
 
 > I build things that **actually work** — clean frontends, robust APIs, and ML systems that solve real problems.
-> Currently deep in **Mars-Studio**, a from-scratch MIPS development environment with a custom compiler,
-> pipeline visualizer, and memory analytics suite.
->
 > **My philosophy:** Great software is equal parts engineering and craft. Write code you'd be proud to show in two years.
 
 ---
