@@ -202,23 +202,6 @@ contact:     official.taha.nawab@gmail.com | laurel4848@gmail.com | nawabtaha61@
 
 ## 🏅 Achievements
 
-<div align="center">
-
-<a href="https://github.com/tahanawab4848?achievement=yolo&tab=achievements">
-  <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="90" alt="YOLO"/>
-</a>
-&nbsp;
-<a href="https://github.com/tahanawab4848?achievement=quickdraw&tab=achievements">
-  <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="90" alt="Quickdraw"/>
-</a>
-&nbsp;
-<a href="https://github.com/tahanawab4848?achievement=pair-extraordinaire&tab=achievements">
-  <img src="https://github.githubassets.com/assets/pair-extraordinaire-default-579438a20e01.png" width="90" alt="Pair Extraordinaire"/>
-</a>
-
-</div>
-
-<br/>
 
 <div align="center">
 
