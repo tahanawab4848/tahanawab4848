@@ -39,7 +39,7 @@ learning:    MLOps · Cloud Architecture · Generative AI
 open_to:     Collaborations · Freelance · Full-time
 location:    Islamabad, Pakistan 🇵🇰
 philosophy:  "Code is craft. Build with intention."
-contact:     official.taha.nawab@gmail.com | laurel4848@gmail.com | nawabtaha61@gmail.com
+contact:     official.taha.nawab@gmail.com | tahanawab.official@gmail.com | laurel4848@gmail.com | nawabtaha61@gmail.com 
 ```
 
 > I build things that **actually work** — clean frontends, robust APIs, and ML systems that solve real problems.
